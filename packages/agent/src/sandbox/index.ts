@@ -17,7 +17,7 @@ export const PROJECT_DIR = "/home/daytona/project";
 
 /** Refresh with `bun run snapshot:build` after changing the Dockerfile. The
  * tag is required: Daytona rejects mutable ones like `latest`. */
-export const SNAPSHOT_NAME = "animus-manim:0.9.1";
+export const SNAPSHOT_NAME = "animus-comic:1.0.0";
 
 const CREATE_TIMEOUT_SEC = 180;
 const DELETE_TIMEOUT_SEC = 60;
